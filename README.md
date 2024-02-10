@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hamza Abbas</h1>
-<h3 align="center">Python Engineer: AI/ML, IoT, Web Development</h3>
+<h3 align="center">Python Engineer Specializing in AI and ML, Generative AI, IoT, Django</h3>
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Animated GIF" width="400" align='right'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaabbas0&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaabbas0" /> </p>
